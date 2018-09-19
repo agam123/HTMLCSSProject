@@ -1,2 +1,2 @@
 # HTMLCSSProject
-This is a mock up design which I learned through tutorials using HTML and CSS. I used text and images and most importantly I used CSS griding to organise the page to make it look neat. 
+If you download the index.html file and right click you will get an option "open with" and you will have the options ethier to open in "google chrome" or another browser etc. Once you can click on whatever browser you prefer you can see the website.
